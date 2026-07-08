@@ -65,20 +65,6 @@ Stored the extracted information in a Pandas DataFrame for further analysis or e
 * Organized scraped data into a structured format.
 * Demonstrated the complete web scraping workflow using Python.
 
-## Project Structure
-
-
-
-├── task6.ipynb
-├── requirements.txt
-├── screenshots/
-│   ├── webpage.png
-│   ├── extracted_data.png
-│   └── dataframe_output.png
-└── README.md
-
-
-
 ## Conclusion
 
 This project successfully demonstrates the fundamentals of web scraping using Python. By leveraging Requests and BeautifulSoup, webpage data was efficiently extracted, parsed, cleaned, and organized into a structured format suitable for further data analysis and processing.
