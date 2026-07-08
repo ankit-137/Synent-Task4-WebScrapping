@@ -1,0 +1,4 @@
+numpy
+pandas
+requests
+beautifulsoup4 (the notebook installs bs4, but the package name for requirements is beautifulsoup4)
