@@ -1,5 +1,5 @@
 
-# Synent-Task6-Web-Scraping-PatelAnkit
+# Synent-Task4-Web-Scraping-PatelAnkit
 
 Web Scraping using Python to extract, parse, and analyze website data using Requests and BeautifulSoup as part of my Synent Data Science Internship.
 
