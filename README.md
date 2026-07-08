@@ -1,4 +1,4 @@
-```markdown
+
 # Synent-Task6-Web-Scraping-PatelAnkit
 
 Web Scraping using Python to extract, parse, and analyze website data using Requests and BeautifulSoup as part of my Synent Data Science Internship.
@@ -82,4 +82,3 @@ Stored the extracted information in a Pandas DataFrame for further analysis or e
 ## Conclusion
 
 This project successfully demonstrates the fundamentals of web scraping using Python. By leveraging Requests and BeautifulSoup, webpage data was efficiently extracted, parsed, cleaned, and organized into a structured format suitable for further data analysis and processing.
-```
